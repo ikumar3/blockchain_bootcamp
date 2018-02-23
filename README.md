@@ -6,6 +6,6 @@
   3. `sudo apt-get install ethereum`
 
 ## Installation instructions for Mac
-  #### By far the easiest way to install go-ethereum is to use our Homebrew tap. If you don't have Homebrew, [install it first](https://brew.sh/).
+  #### By far the easiest way to install go-ethereum is to use Homebrew tap. If you don't have Homebrew, [install it first](https://brew.sh/).
   1. `brew tap ethereum/ethereum`
   2. `brew install ethereum`
