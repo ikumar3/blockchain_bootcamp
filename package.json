@@ -1,0 +1,23 @@
+{
+  "name": "blockchain_bootcamp",
+  "version": "1.0.0",
+  "description": "## Installation instructions for Ubuntu   1. `sudo add-apt-repository -y ppa:ethereum/ethereum`   2. `sudo apt-get update`   3. `sudo apt-get install ethereum`",
+  "main": "index.js",
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "scripts": {
+    "prestart": "npm install",
+    "start": "http-server ./dapp -a localhost -p 9000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karachain/blockchain_bootcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karachain/blockchain_bootcamp/issues"
+  },
+  "homepage": "https://github.com/karachain/blockchain_bootcamp#readme"
+}
