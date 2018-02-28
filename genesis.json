@@ -1,10 +1,10 @@
-{“config”: {
-   “chainId”: 10,
-   “homesteadBlock”: 0,
-   “eip155Block”: 0,
-   “eip158Block”: 0
+{"config": {
+   "chainId": 10,
+   "homesteadBlock": 0,
+   "eip155Block": 0,
+   "eip158Block": 0
  },
- “alloc”      : {},
- “difficulty” : “0x20000",
- “gasLimit”   : “250000000000"
+ "alloc"      : {},
+ "difficulty" : "0x20000",
+ "gasLimit"   : "250000000000"
 }
